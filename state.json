@@ -11,13 +11,13 @@
     "error": null,
     "snippet": ""
   },
-  "amazon.jobs - Cyber apprentice (UK) [JSON API - test me]": {
-    "open": true,
+  "amazon.jobs - Cyber apprentice (UK)": {
+    "open": false,
     "hash": "27852f38546a951a6ccb4ba868a977499c0bb9b446608e4a0ce83be9455f9815",
     "error": null,
-    "snippet": "...\"jobpostingsearchrequest\\\":{\\\"query\\\":\\\"cyber security apprentice\\\",\\\"excludefacets\\\":[{\\\"name\\\":\\\"b..."
+    "snippet": "...{\"error\":null,\"hits\":0,\"facets\":{},\"content\":{\"sidebar\":{},\"search_results..."
   },
-  "gov.uk Find an Apprenticeship - cyber degree (fires on 'amazon')": {
+  "gov.uk cyber apprenticeships (alerts on any NEW listing)": {
     "open": false,
     "hash": "a08ca0acdcd6cfafe1e61883e2e88027decbad0686cd57c717bbf12d00a3dd03",
     "error": null,
