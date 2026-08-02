@@ -24,5 +24,11 @@
       "VAC2000040502": "Cyber Security Degree Apprentice"
     },
     "error": null
+  },
+  "TEST - delete me after the ping arrives": {
+    "open": true,
+    "hash": "d6cb46038e3f9d8fe6452e37688b2be5cd561935fc7a5b44299410dfb6363230",
+    "error": null,
+    "snippet": "...example domain example domain this domain is for use in docu..."
   }
 }
