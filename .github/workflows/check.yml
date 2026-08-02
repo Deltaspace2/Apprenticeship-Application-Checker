@@ -2,9 +2,9 @@ name: apprenticeship-checker
 
 on:
   schedule:
-    # 07:00 UTC daily. Change the numbers to move it (min hour * * *).
+    # 00:20 UTC daily (8:20am PHT)
     # GitHub sometimes delays scheduled runs by a few minutes - fine for a daily check.
-    - cron: "0 7 * * *"
+    - cron: "20 0 * * *"
   workflow_dispatch:        # lets you run it by hand from the Actions tab
 
 jobs:
