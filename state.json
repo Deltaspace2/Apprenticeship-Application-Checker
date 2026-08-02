@@ -1,0 +1,26 @@
+{
+  "Amazon - Cyber Security programme page": {
+    "open": false,
+    "hash": "13b1a116b265c59eac7ff6cbce7790794d263c13dd6ea8bb850a16d17df75b1e",
+    "error": null,
+    "snippet": ""
+  },
+  "Civil Service - Govt Security Cyber Degree (Level 6)": {
+    "open": false,
+    "hash": "d6cddcf385938a56aa49235f7f73ab912faeb819b88c6e515b65d1a22328fc65",
+    "error": null,
+    "snippet": ""
+  },
+  "amazon.jobs - Cyber apprentice (UK) [JSON API - test me]": {
+    "open": true,
+    "hash": "27852f38546a951a6ccb4ba868a977499c0bb9b446608e4a0ce83be9455f9815",
+    "error": null,
+    "snippet": "...\"jobpostingsearchrequest\\\":{\\\"query\\\":\\\"cyber security apprentice\\\",\\\"excludefacets\\\":[{\\\"name\\\":\\\"b..."
+  },
+  "gov.uk Find an Apprenticeship - cyber degree (fires on 'amazon')": {
+    "open": false,
+    "hash": "a08ca0acdcd6cfafe1e61883e2e88027decbad0686cd57c717bbf12d00a3dd03",
+    "error": null,
+    "snippet": ""
+  }
+}
