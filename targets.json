@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Amazon - Cyber Security programme page",
+    "url": "https://amazonapprenticeships.co.uk/cyber-security",
+    "open_keywords": ["apply now", "apply here", "start your application", "applications are open"],
+    "closed_keywords": ["applications are closed", "applications have closed", "closed for applications"],
+    "selector": null,
+    "watch_changes": true
+  },
+  {
+    "name": "Civil Service - Govt Security Cyber Degree (Level 6)",
+    "url": "https://www.civil-service-careers.gov.uk/government-security-cyber-degree-apprenticeship-level-6/",
+    "open_keywords": ["apply now", "applications are now open", "apply here", "start your application"],
+    "closed_keywords": ["applications currently closed", "this page will be updated when applications"],
+    "selector": null,
+    "watch_changes": true
+  },
+  {
+    "name": "amazon.jobs - Cyber apprentice (UK) [JSON API - test me]",
+    "url": "https://www.amazon.jobs/en/search.json?base_query=cyber+security+apprentice&loc_query=United+Kingdom&country=GBR&result_limit=100",
+    "open_keywords": ["cyber security apprentice"],
+    "closed_keywords": [],
+    "selector": null,
+    "watch_changes": false
+  },
+  {
+    "name": "gov.uk Find an Apprenticeship - cyber degree (fires on 'amazon')",
+    "url": "https://www.findapprenticeship.service.gov.uk/apprenticeships?searchTerm=cyber+security",
+    "open_keywords": ["amazon"],
+    "closed_keywords": [],
+    "selector": null,
+    "watch_changes": false
+  }
+]
