@@ -16,19 +16,20 @@
     "watch_changes": true
   },
   {
-    "name": "amazon.jobs - Cyber apprentice (UK) [JSON API - test me]",
+    "name": "amazon.jobs - Cyber apprentice (UK)",
     "url": "https://www.amazon.jobs/en/search.json?base_query=cyber+security+apprentice&loc_query=United+Kingdom&country=GBR&result_limit=100",
-    "open_keywords": ["cyber security apprentice"],
-    "closed_keywords": [],
+    "open_keywords": ["\"hits\""],
+    "closed_keywords": ["\"jobs\":[]"],
     "selector": null,
     "watch_changes": false
   },
   {
-    "name": "gov.uk Find an Apprenticeship - cyber degree (fires on 'amazon')",
+    "name": "gov.uk cyber apprenticeships (alerts on any NEW listing)",
     "url": "https://www.findapprenticeship.service.gov.uk/apprenticeships?searchTerm=cyber+security",
-    "open_keywords": ["amazon"],
+    "open_keywords": [],
     "closed_keywords": [],
     "selector": null,
+    "list_mode": true,
     "watch_changes": false
   }
 ]
