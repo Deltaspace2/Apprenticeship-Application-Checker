@@ -31,13 +31,5 @@
     "selector": null,
     "list_mode": true,
     "watch_changes": false
-  },
-  {
-    "name": "TEST - delete me after the ping arrives",
-    "url": "https://example.com",
-    "open_keywords": ["example"],
-    "closed_keywords": [],
-    "selector": null,
-    "watch_changes": false
   }
 ]
