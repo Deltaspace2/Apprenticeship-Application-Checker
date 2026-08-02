@@ -18,9 +18,17 @@
     "snippet": "...{\"error\":null,\"hits\":0,\"facets\":{},\"content\":{\"sidebar\":{},\"search_results..."
   },
   "gov.uk cyber apprenticeships (alerts on any NEW listing)": {
-    "open": false,
-    "hash": "a08ca0acdcd6cfafe1e61883e2e88027decbad0686cd57c717bbf12d00a3dd03",
+    "ids": {
+      "VAC2000045007": "Cyber Security Apprentice",
+      "VAC2000042176": "Cyber Security Apprentice",
+      "VAC2000040502": "Cyber Security Degree Apprentice"
+    },
+    "error": null
+  },
+  "TEST - delete me after the ping arrives": {
+    "open": true,
+    "hash": "d6cb46038e3f9d8fe6452e37688b2be5cd561935fc7a5b44299410dfb6363230",
     "error": null,
-    "snippet": ""
+    "snippet": "...example domain example domain this domain is for use in docu..."
   }
 }
