@@ -19,8 +19,7 @@
   },
   "gov.uk cyber apprenticeships (alerts on any NEW listing)": {
     "ids": {
-      "VAC2000042176": "Cyber Security Apprentice",
-      "VAC2000040502": "Cyber Security Degree Apprentice"
+      "VAC2000042176": "Cyber Security Apprentice"
     },
     "error": null
   },
