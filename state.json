@@ -18,9 +18,7 @@
     "snippet": "...{\"error\":null,\"hits\":0,\"facets\":{},\"content\":{\"sidebar\":{},\"search_results..."
   },
   "gov.uk cyber apprenticeships (alerts on any NEW listing)": {
-    "ids": {
-      "VAC2000042176": "Cyber Security Apprentice"
-    },
+    "ids": {},
     "error": null
   },
   "TEST - delete me after the ping arrives": {
