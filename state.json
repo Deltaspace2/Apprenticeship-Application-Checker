@@ -7,8 +7,8 @@
   },
   "Civil Service - Govt Security Cyber Degree (Level 6)": {
     "open": false,
-    "hash": "d6cddcf385938a56aa49235f7f73ab912faeb819b88c6e515b65d1a22328fc65",
-    "error": null,
+    "hash": "",
+    "error": "HTTPSConnectionPool(host='www.civil-service-careers.gov.uk', port=443): Max retries exceeded with url: /government-security-cyber-degree-apprenticeship-level-6/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.civil-service-careers.gov.uk', port=443) at 0x7f16607e44d0>, 'Connection to www.civil-service-careers.gov.uk timed out. (connect timeout=30)'))",
     "snippet": ""
   },
   "amazon.jobs - Cyber apprentice (UK)": {
