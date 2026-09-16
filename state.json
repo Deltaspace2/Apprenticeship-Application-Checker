@@ -18,8 +18,13 @@
     "snippet": "...{\"error\":null,\"hits\":0,\"facets\":{},\"content\":{\"sidebar\":{},\"search_results..."
   },
   "gov.uk cyber apprenticeships (alerts on any NEW listing)": {
-    "ids": {},
-    "error": "403 Client Error: Forbidden for url: https://www.findapprenticeship.service.gov.uk/apprenticeships?searchTerm=cyber+security"
+    "ids": {
+      "VAC2000049348": "Cyber Security Apprentice",
+      "VAC2000049612": "Cyber Security Engineer Apprentice",
+      "VAC2000049619": "Cyber Threat Detection & Response Apprentice",
+      "VAC2000052917": "Infrastructure & Cyber Security Apprentice"
+    },
+    "error": null
   },
   "TEST - delete me after the ping arrives": {
     "open": true,
