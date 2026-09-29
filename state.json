@@ -20,15 +20,14 @@
   "gov.uk cyber apprenticeships (alerts on any NEW listing)": {
     "ids": {
       "VAC2000049612": "Cyber Security Engineer Apprentice",
-      "VAC2000049619": "Cyber Threat Detection & Response Apprentice",
-      "VAC2000052917": "Infrastructure & Cyber Security Apprentice"
+      "VAC2000049619": "Cyber Threat Detection & Response Apprentice"
     },
     "error": null
   },
   "TEST - delete me after the ping arrives": {
     "open": true,
-    "hash": "d6cb46038e3f9d8fe6452e37688b2be5cd561935fc7a5b44299410dfb6363230",
+    "hash": "e5832aa370a80dad356463bd8c9b4537ed606de9f45915d9098c0d0a7694926b",
     "error": null,
-    "snippet": "...example domain example domain this domain is for use in docu..."
+    "snippet": "...example domain this domain is for use in documentation examp..."
   }
 }
